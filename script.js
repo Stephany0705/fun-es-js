@@ -9,64 +9,64 @@ const perguntas = [
         enunciado: "1. Qual a função do verbo na oração?",
         alternativas: [
             {
-                texto: "A) Bernardo Rezende ",
-                afirmacao: "1.Errouuu "
+                texto: "a) Ação",
+                afirmacao: "1.Acertouu "
             },
             {
-                texto: "B)Jose Roberto Guimaraes",
-                afirmacao: "2. Acertouu!"
+                texto: " b) Substantivo",
+                afirmacao: "1.Errou!"
             }
         ]
     },
     {
-        enunciado: "Quantos metros de altura tem a Bicampeã Olímpica Thaisa Daher?",
+        enunciado: "2. Qual é a forma correta de escrever a palavra "fato" no plural?",
         alternativas: [
             {
-                texto: "A) 1,96 ",
+                texto: "a) Fatos",
                 afirmacao: "2. Acertouu"
             },
             {
-                texto: "B) 1,92",
+                texto: "b) Fatoes",
                 afirmacao: "2.Errouu"
             }
         ]
     },
     {
-        enunciado: "Quem foi a melhor central do Mundial de 2022?",
+        enunciado: "3. Qual dessas palavras está corretamente acentuada?",
         alternativas: [
             {
-                texto: "A)Carol",
+                texto: " a) Javali",
                 afirmacao: "3. Acertouu"
             },
             {
-                texto: "B)Thaisa",
+                texto: " b) Pásaro",
                 afirmacao: "3.Errouu"
             }
         ]
     },
     {
-        enunciado: "Quem ganhou as olimpíadas de Tokyo?",
+        enunciado: "4. O que é um adjetivo?",
         alternativas: [
             {
-                texto: "A)EUA",
+                texto: "a)Palavra que caracteriza o substantivo",
                 afirmacao: "4. Acertouu"
             },
             {
-                texto: "B)Brasil",
+                texto: "b) Palavra que indica ação",
                 afirmacao: "4.Errouu"
             }
         ]
     },
     {
-        enunciado: "Qual o nome da melhor oposta da atualidade?",
+        enunciado: "5. Qual a classe gramatical da palavra "alegria"?",
         alternativas: [
             {
-                texto: "A) Paola Egonu",
-                afirmacao: "5. Errouu"
+                texto: " a) Substantivo",
+                afirmacao: "5. Acertou"
             },
             {
-                texto: "B) Tijana Boskovic",
-                afirmacao: "5.Acertouu"
+                texto: " b) Advérbio",
+                afirmacao: "5. Errou"
             }
         ]
     },
