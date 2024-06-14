@@ -19,7 +19,7 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "2. Qual é a forma correta de escrever a palavra 'fato' no plural?",
+        enunciado: "2. Qual é a forma correta de escrever a palavra fato no plural?",
         alternativas: [
             {
                 texto: "a) Fatos",
@@ -58,7 +58,7 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "5. Qual a classe gramatical da palavra 'alegria'?",
+        enunciado: "5. Qual a classe gramatical da palavra alegria?",
         alternativas: [
             {
                 texto: " a) Substantivo",
