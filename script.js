@@ -6,7 +6,7 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "Quem é o técnico da seleção feminina de voleibol",
+        enunciado: "1. Qual a função do verbo na oração?",
         alternativas: [
             {
                 texto: "A) Bernardo Rezende ",
